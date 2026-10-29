@@ -1,0 +1,17 @@
+# Captures and machine/user data (never publish)
+/coletas/
+/capturas/
+/backups/
+*.zip
+*.bak
+/acesso_codex.txt
+# Python and build output
+.venv/
+.tools/
+__pycache__/
+*.pyc
+.pio/
+build/
+*.bin
+*.elf
+*.map

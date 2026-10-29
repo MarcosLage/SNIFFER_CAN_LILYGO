@@ -1,0 +1,14 @@
+{
+  "firmware": "0.1.1",
+  "board": "XY_32_CAN+RS485 V1.1 2024-04-25",
+  "esp32_core": "3.3.10",
+  "python_dependency": "pyserial==3.5",
+  "can_mode": "listen_only",
+  "sha256": {
+    "SNIFFER_CAN.ino": "9e3871ba2217617f5723f2d5540966b2d04d29eec3dc3c68dff87c392fd8c85b",
+    "capture.py": "9ffa94055418530c689bfd31db069427564114a136d3e8e023e1a3e2cbb17365",
+    "requirements.txt": "0b81718d1cbe8a7696e45a9388c9205272b5e345cd79d0cf1ccfb7a9fd1925e9",
+    "exemplo_FICTICIO.txt": "9fc9b531908057263aedaa2631944ed96771a69c045cc585a72e464992f3ed94"
+  },
+  "hash_content": "SHA-256 of file content stored in Git after text normalization"
+}

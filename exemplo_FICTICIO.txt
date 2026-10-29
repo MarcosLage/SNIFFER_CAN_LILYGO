@@ -1,0 +1,9 @@
+# EXEMPLO FICTICIO - NAO E CAPTURA REAL
+#SESSION,format=1,board=XY_32_CAN+RS485,revision=V1.1,pcb_date=2024-04-25,firmware=0.1.0,bitrate=250000,mode=listen_only,timestamp=task_dequeue_us
+timestamp_us,id_hex,extended,rtr,dlc,data_hex
+1000,001,0,0,3,0001FF
+2000,18EF0012,1,0,8,0001020304050607
+#EVENT,2500,"pressionei tecla X"
+3000,123,0,1,4,
+#STATUS,us=4000,running=0,bitrate=250000,received=3,written=3,app_dropped=0,driver_missed=0,hw_overrun=0,bus_errors=0,rec=0,tec=0,pending_driver=0,pending_app=0
+#STOP
